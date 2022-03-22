@@ -42,7 +42,7 @@ My management style is to lead by example, and never micro-manage. I fimmly beli
 
 ## Ways to contact me
 
-Email: paullittlebury@gmail.com<br />
-Mobile: +44 7394 074047<br />
-Skype: jaffamonkey<br />
-![Schedule a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+#### Email: paullittlebury@gmail.com
+#### Mobile: +44 7394 074047
+#### Skype: jaffamonkey
+[Schedule a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
