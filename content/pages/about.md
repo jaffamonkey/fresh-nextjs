@@ -32,12 +32,17 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+## About me
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I started freelancing in 1997, quickly following a test and qa management route for a decade.  But I was always hands-on, always leaning towards the technical challenges. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+12 years ago, I switched to a more focused technical directions of test frameworks and devops.  With my management skills and experience in dricing process changes, I was able to provide a rounded contribution to project quality - not just test engineering. 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+My management style is to lead by example, and never micro-manage. I fimmly believe in transparency, regardless of audience - I consider this one of the most important aspects of my work.
 
-*Thank You for reading!*
+## Ways to contact me
+
+Email: paullittlebury@gmail.com<br />
+Mobile: +44 7394 074047<br />
+Skype: jaffamonkey<br />
+![Schedule a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
