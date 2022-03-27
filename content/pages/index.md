@@ -21,14 +21,14 @@ sections:
         url: https://calendly.com/jaffamonkeyltd/intro-call
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: jaffamonkey
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: jaffamonkey
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: jaffamonkey
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
