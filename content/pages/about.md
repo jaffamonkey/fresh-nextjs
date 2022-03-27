@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Some relevant self-analysis :)
-img_path: images/about.jpg
+img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/clients.png
       relativeUrl: true
 layout: page
 ---

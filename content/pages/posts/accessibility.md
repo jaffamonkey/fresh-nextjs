@@ -21,7 +21,7 @@ seo:
       value: Web/Mobile Accessibility
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: Web/Mobile Accessibility
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/9.png
       relativeUrl: true
 layout: post
 ---
