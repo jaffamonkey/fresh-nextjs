@@ -1,26 +1,24 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Web/Mobile App Accessibility audit
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
-date: '2016-08-22'
+  Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.
+date: '2021-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: images/9.jpg
 content_img_alt: A man sitting at the table
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: Work at home parent is an entrepreneur who works from home
+  title: Web/Mobile App Accessibility audit
+  description: Web/Mobile App Accessibility audit
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Web/Mobile App Accessibility audit
       keyName: property
     - name: 'og:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: Web/Mobile App Accessibility audit
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
@@ -29,9 +27,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Web/Mobile App Accessibility audit
     - name: 'twitter:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: Web/Mobile App Accessibility audit
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true

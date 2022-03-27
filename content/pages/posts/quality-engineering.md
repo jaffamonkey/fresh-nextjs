@@ -1,26 +1,25 @@
 ---
-title: The Ride In The Woods
-subtitle: A cautionary tale about riding
+title: Quality Engineering
+subtitle: Quality at the centre of the project pipeline
 excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  Quality at the centre of the project pipeline 
 date: '2018-01-23'
 thumb_img_path: images/3.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
 seo:
-  title: The Ride In The Woods
-  description: A cautionary tale about riding
+  title: Quality Engineering
+  description: Quality at the centre of the project pipeline
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Ride In The Woods
+      value: Quality Engineering
       keyName: property
     - name: 'og:description'
-      value: A cautionary tale about riding
+      value: Quality at the centre of the project pipeline
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
@@ -29,9 +28,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Ride In The Woods
+      value: Quality Engineering
     - name: 'twitter:description'
-      value: A cautionary tale about riding
+      value: Quality at the centre of the project pipeline
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
@@ -41,8 +40,6 @@ layout: post
 # How I can help
 
 #### Helping teams adopt a shift-left mindset &#8226; Test strategies &#8226; Opensource test architecture &#8226; Improving quality in CI/CD pipelines &#8226; Pragmatic performance test automation &#8226; Coaching
-
-> I have never stopped to intellectualise what I do - I thrive on change, not hindsight.
 
 ## Transparency
 
