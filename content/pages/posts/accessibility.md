@@ -36,7 +36,7 @@ seo:
 layout: post
 ---
 
-> Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.
+**Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.**
 
 ### Accessibility audit
 
