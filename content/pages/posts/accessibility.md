@@ -1,5 +1,5 @@
 ---
-title: Web/Mobile App Accessibility audit
+title: Web/Mobile Accessibility
 excerpt: >-
   Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.
 date: '2021-08-22'
@@ -8,17 +8,17 @@ thumb_img_alt: A man sitting at the table
 content_img_path: images/9.jpg
 content_img_alt: A man sitting at the table
 seo:
-  title: Web/Mobile App Accessibility audit
-  description: Web/Mobile App Accessibility audit
+  title: Web/Mobile Accessibility
+  description: Web/Mobile Accessibility
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Web/Mobile App Accessibility audit
+      value: Web/Mobile Accessibility
       keyName: property
     - name: 'og:description'
-      value: Web/Mobile App Accessibility audit
+      value: Web/Mobile Accessibility
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
@@ -27,9 +27,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Web/Mobile App Accessibility audit
+      value: Web/Mobile Accessibility
     - name: 'twitter:description'
-      value: Web/Mobile App Accessibility audit
+      value: Web/Mobile Accessibility
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
