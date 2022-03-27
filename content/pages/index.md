@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: "Quality Engineering"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Quality engineering is about the whole pipeline, from requirements to code to production, it's more than test automation.
   - section_id: about
     type: section_content
     title: About
@@ -17,10 +16,10 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: Schedule a meeting
+        url: https://calendly.com/jaffamonkeyltd/intro-call
         style: button
-  - section_id: recent-posts
+  - section_id: current-services
     type: section_posts
     title: How I can help
     posts_number: 4

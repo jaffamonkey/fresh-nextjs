@@ -40,9 +40,3 @@ I started freelancing in 1997, quickly following a test and qa management route 
 
 My management style is to lead by example, and never micro-manage. I fimmly believe in transparency, regardless of audience - I consider this one of the most important aspects of my work.
 
-## Ways to contact me
-
-#### Email: paullittlebury@gmail.com
-#### Mobile: +44 7394 074047
-#### Skype: jaffamonkey
-[Schedule a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
