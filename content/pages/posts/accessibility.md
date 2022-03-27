@@ -36,21 +36,19 @@ seo:
 layout: post
 ---
 
-# Accessibility
-
 > Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.
 
-## Accessibility audit
+### Accessibility audit
 
 The audit a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. 
 
 Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 
-#### Aim high
+##### Aim high
 
 [Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/lighthouse.png)
 
-## What you will get
+### What you will get
 
 - Full reports
 - Annotated error screenshots
@@ -59,13 +57,13 @@ Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 - Process improvements suggestions
 - Second audit pass post-fixes (optional)
 
-#### Granular reporting
+##### Granular reporting
 
 [Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/audit.png)
 
 > Embedding accessibility tests in your CI pipeline - you can add lean tools to verify code super-fast!
 
-## Tools
+### Tools
 
 A first important step is to realise Acessibility is a continual improvements exercise.
 
@@ -73,6 +71,6 @@ Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint
 
 Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
-#### Accessibility dashboard
+##### Accessibility dashboard
 
 [Pa11y Web Accessbility Dashboard](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/pa11y2.png)
