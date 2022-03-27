@@ -127,10 +127,10 @@ export default class Header extends React.Component {
                                     </Link>
                                 </p>
                             )}
-                            <div className="site-identity">
+                            {/* <div className="site-identity">
                                 <p className="site-title"><Link href={withPrefix('/')}>{title}</Link></p>
                                 {tagline && <p className="site-description">{tagline}</p>}
-                            </div>
+                            </div> */}
                             {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && <button id="menu-toggle" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}><span className="screen-reader-text">Menu</span><span className="icon-menu" aria-hidden="true" /></button>}
                         </div>
                         {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
