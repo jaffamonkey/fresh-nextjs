@@ -71,7 +71,7 @@ export default class Body extends React.Component {
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap" rel="stylesheet" />
-                    {favicon && <link rel="icon" href="images/favicon.ico" />}
+                    {favicon && <link rel="icon" href="https://courageous-zabaione-006394.netlify.app/images/favicon.ico" />}
                     <body className={classNames(`palette-${palette}`, `style-${layoutStyle}`)} />
                 </Helmet>
                 <div id="page" className="site">
