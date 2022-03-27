@@ -44,10 +44,6 @@ The audit a wide range of disabilities, including visual, auditory, physical, sp
 
 Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 
-##### Aim high
-
-[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/lighthouse.png)
-
 ### What you will get
 
 - Full reports
@@ -57,11 +53,7 @@ Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 - Process improvements suggestions
 - Second audit pass post-fixes (optional)
 
-##### Granular reporting
-
-[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/audit.png)
-
-> Embedding accessibility tests in your CI pipeline - you can add lean tools to verify code super-fast!
+> Add accessibility tests in your CI pipeline
 
 ### Tools
 
@@ -71,6 +63,3 @@ Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint
 
 Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
-##### Accessibility dashboard
-
-[Pa11y Web Accessbility Dashboard](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/pa11y2.png)

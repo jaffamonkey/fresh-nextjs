@@ -37,19 +37,15 @@ seo:
 layout: post
 ---
 
-> Helping teams adopt a shift-left mindset &#8226; Test strategies &#8226; Opensource test architecture &#8226; Improving quality in CI/CD pipelines &#8226; Pragmatic performance test automation &#8226; Coaching
+**Helping teams adopt a shift-left mindset - Test strategies - Opensource test architecture - Improving quality in CI/CD pipelines - Pragmatic performance test automation Coaching**
 
 ### Transparency
 
 With experience, comes the confidence to be transparent - but many choose not to be, out of irrational fear. It's important to be truthful about project progress - it's not necessary to be datailed on every single issue, but creating atmosphere of trust pays dividends.
 
-[Project transparency](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/blah2.png)
-
 ### Effective test strategy
 
 It's not fixed in stone, a test strategy identifies ways of working, current tech stack information, and aspirations for improvements. If maintained well, it will become a go-to for everyone on a project. And reusable for other projects too!
-
-[Test strategy](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/strategy.png)
 
 ### Helping teams shift left
 
@@ -59,10 +55,7 @@ Shifting left with mean putting quality first at all stage in the development cy
 
 Sometimes investing is a feature-rich test framework is a good idea, but starting lean is the best place to start - tests run as part of CI/CD should always be as lean as possible. Packages are there too help you, just be selective and conscious of potential overheads.
 
-[Less is more](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/lessismore.png)
-
 ### Starting non-functional tests earlier
 
 You can  waste a lot of time focusing on trapping functional errors, but these hold little value in comparisron to testing for performance issues. You don’t need to run a heavy load test to get useful feedback, and developers find these tests useful.
 
-[Performance testing](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/nfr.png)
