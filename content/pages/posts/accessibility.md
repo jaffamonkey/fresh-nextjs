@@ -2,7 +2,7 @@
 title: Web/Mobile Accessibility
 excerpt: >-
   Get an audit at any point in your project.
-date: '2021-08-22'
+date: '2022-03-26'
 thumb_img_path: images/9.png
 thumb_img_alt: A man sitting at the table
 content_img_path: images/9.png

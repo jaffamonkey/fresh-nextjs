@@ -3,7 +3,7 @@ title: Quality Engineering
 subtitle: Quality at the centre of the project pipeline
 excerpt: >-
   Quality at the centre of the project pipeline 
-date: '2018-01-23'
+date: '2022-03-27'
 thumb_img_path: images/3.png
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.png
