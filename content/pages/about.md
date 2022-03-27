@@ -32,8 +32,6 @@ seo:
 layout: page
 ---
 
-## About me
-
 > "I've never heard of you" ~ A world-famous Agile coach
 
 I started freelancing in 1997, quickly following a test and qa management route for a decade.  But I was always hands-on, always leaning towards the technical challenges. 
