@@ -50,7 +50,7 @@ Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 
 #### Aim high
 
-[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/main/static/images/lighthouse.png)
+[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/lighthouse.png)
 
 ## What you will get
 
@@ -63,7 +63,7 @@ Auditing reporting available for web and mobile apps (WCAG 2.1 and WCAG 2.0).
 
 #### Granular reporting
 
-[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/main/static/images/audit.png)
+[Accessbility Score](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/audit.png)
 
 > Embedding accessibility tests in your CI pipeline - you can add lean tools to verify code super-fast!
 
@@ -77,4 +77,4 @@ Treat an audit as a startpoint, to integrating accessibility checks earlier in t
 
 #### Accessibility dashboard
 
-[Pa11y Web Accessbility Dashboard](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/main/static/images/pa11y2.png)
+[Pa11y Web Accessbility Dashboard](https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/master/static/images/pa11y2.png)
