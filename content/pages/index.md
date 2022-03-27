@@ -6,12 +6,16 @@ sections:
     type: section_hero
     title: "Quality Engineering"
     content: >-
-      Quality engineering is about the whole pipeline, from requirements to code to production, it's more than test automation.
+      Test Engineering + Quality Assurance + Shift Left
   - section_id: about
     type: section_content
-    title: About
+    title: Quality from requirements to code to production
     content: >-
       Helping teams adopt a shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation • Coaching
+  - section_id: current-services
+    type: section_posts
+    title: How I can help
+    posts_number: 4
     actions:
       - label: Schedule a meeting
         url: https://calendly.com/jaffamonkeyltd/intro-call
