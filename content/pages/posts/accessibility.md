@@ -1,7 +1,7 @@
 ---
 title: Web/Mobile Accessibility
 excerpt: >-
-  Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.
+  Get an audit at any point in your project.
 date: '2021-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A man sitting at the table
