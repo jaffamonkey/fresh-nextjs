@@ -305,7 +305,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: posts/**
+    exclude: current-services/**
     fields:
       - type: string
         name: title
@@ -330,7 +330,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/posts/{slug}'
+    urlPath: '/current-services/{slug}'
     label: Post
     layout: post
     folder: posts
