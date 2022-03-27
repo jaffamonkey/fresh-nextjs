@@ -347,7 +347,7 @@ models:
       - type: date
         name: date
         label: Date
-        required: true
+        required: false
       - type: image
         name: thumb_img_path
         label: Image (blog feed)
