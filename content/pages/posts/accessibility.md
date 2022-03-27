@@ -3,9 +3,9 @@ title: Web/Mobile Accessibility
 excerpt: >-
   Get an audit at any point in your project.
 date: '2021-08-22'
-thumb_img_path: images/9.jpg
+thumb_img_path: images/92.png
 thumb_img_alt: A man sitting at the table
-content_img_path: images/9.jpg
+content_img_path: images/92.png
 content_img_alt: A man sitting at the table
 seo:
   title: Web/Mobile Accessibility

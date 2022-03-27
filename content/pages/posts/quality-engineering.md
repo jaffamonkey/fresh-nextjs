@@ -4,9 +4,9 @@ subtitle: Quality at the centre of the project pipeline
 excerpt: >-
   Quality at the centre of the project pipeline 
 date: '2018-01-23'
-thumb_img_path: images/3.jpg
+thumb_img_path: images/3.png
 thumb_img_alt: A motorcycle in a forest
-content_img_path: images/3.jpg
+content_img_path: images/3.png
 content_img_alt: A motorcycle in a forest
 seo:
   title: Quality Engineering
