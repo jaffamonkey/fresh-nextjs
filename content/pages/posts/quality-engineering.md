@@ -2,7 +2,7 @@
 title: Quality Engineering
 subtitle: Quality at the centre of the project pipeline
 excerpt: >-
-  Quality at the centre of the project pipeline 
+  Coaching teams in shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation
 date: '2022-03-27'
 thumb_img_path: images/3.png
 thumb_img_alt: A motorcycle in a forest

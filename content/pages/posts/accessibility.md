@@ -1,7 +1,7 @@
 ---
 title: Web/Mobile Accessibility
 excerpt: >-
-  Get an audit at any point in your project.
+Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production.
 date: '2022-03-26'
 thumb_img_path: images/9.png
 thumb_img_alt: A man sitting at the table
@@ -36,7 +36,7 @@ seo:
 layout: post
 ---
 
-**Get an audit at any point in your project, and also get advice on how to ensure accessibility becomes part of mindset, from design to code.**
+**Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production**
 
 ### Accessibility audit
 
