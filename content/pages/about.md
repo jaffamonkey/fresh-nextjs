@@ -34,6 +34,8 @@ layout: page
 
 ## About me
 
+> "I've never heard of you" ~ A world-famous Agile coach
+
 I started freelancing in 1997, quickly following a test and qa management route for a decade.  But I was always hands-on, always leaning towards the technical challenges. 
 
 12 years ago, I switched to a more focused technical directions of test frameworks and devops.  With my management skills and experience in dricing process changes, I was able to provide a rounded contribution to project quality - not just test engineering. 

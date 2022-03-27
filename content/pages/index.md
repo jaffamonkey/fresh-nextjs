@@ -11,21 +11,10 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Helping teams adopt a shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation • Coaching
     actions:
       - label: Schedule a meeting
         url: https://calendly.com/jaffamonkeyltd/intro-call
-        style: button
-  - section_id: current-services
-    type: section_posts
-    title: How I can help
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
         style: button
 seo:
   title: Stackbit Fresh Theme
