@@ -23,9 +23,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Quality engineering
+          - Accessibility audit
+          - General
       - input_type: textarea
         name: message
         label: Message
