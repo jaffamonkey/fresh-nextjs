@@ -37,7 +37,7 @@ seo:
 layout: post
 ---
 
-# How I can help
+# Quality Engineering
 
 #### Helping teams adopt a shift-left mindset &#8226; Test strategies &#8226; Opensource test architecture &#8226; Improving quality in CI/CD pipelines &#8226; Pragmatic performance test automation &#8226; Coaching
 
