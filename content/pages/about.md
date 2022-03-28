@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 57 clients in mobile, creative, banking, finance, publishing and gaming indistries
+subtitle: 57 clients in mobile, creative, banking, finance, publishing and gaming
 img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
