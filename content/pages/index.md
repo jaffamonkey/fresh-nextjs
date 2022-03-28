@@ -6,12 +6,12 @@ sections:
     type: section_hero
     title: "Quality Engineering"
     content: >-
-      **Quality** Assurance + Test **Engineering**
+      `Quality` Assurance + Test `Engineering`
   - section_id: about
     type: section_content
     title: E2E Quality from requirements to production
     content: >-
-      Helping teams adopt a shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation • Coaching
+      Coaching teams in shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation
   - section_id: current-services
     type: section_posts
     title: How I can help
