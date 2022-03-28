@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: "Quality Engineering"
     content: >-
-      `Quality` Assurance + Test `Engineering`
+      Quality `Assurance` + `Test` Engineering
   - section_id: about
     type: section_content
     title: E2E Quality from requirements to production
