@@ -20,6 +20,9 @@ sections:
       - label: Schedule a meeting
         url: https://calendly.com/jaffamonkeyltd/intro-call
         style: button
+      - label: Contact us
+        url: contact/
+        style: button
 seo:
   title: jaffamonkey
   description: The preview of the Fresh theme
