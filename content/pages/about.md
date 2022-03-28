@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: _"I've never heard of you" ~ A world-famous Agile coach_
+subtitle: "I've never heard of you" ~ A world-famous Agile coach
 img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
