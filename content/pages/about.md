@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I have worked with 57 clients on over 100+ projects
+subtitle: _"I've never heard of you" ~ A world-famous Agile coach_
 img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
@@ -31,12 +31,3 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-> "I've never heard of you" ~ A world-famous Agile coach
-
-I started freelancing in 1997, quickly following a test and qa management route for a decade.  But I was always hands-on, always leaning towards the technical challenges. 
-
-12 years ago, I switched to a more focused technical directions of test frameworks and devops.  With my management skills and experience in dricing process changes, I was able to provide a rounded contribution to project quality - not just test engineering. 
-
-My management style is to lead by example, and never micro-manage. I fimmly believe in transparency, regardless of audience - I consider this one of the most important aspects of my work.
-
