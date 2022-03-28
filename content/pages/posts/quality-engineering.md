@@ -2,7 +2,7 @@
 title: Quality Engineering
 subtitle: Quality at the centre of the project pipeline
 excerpt: >-
-  Coaching teams in shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation
+  Shifting left with mean putting quality first at all stage in the development cycle, starting at requirements and design stages.
 date: '2022-03-27'
 thumb_img_path: images/3.png
 thumb_img_alt: A motorcycle in a forest
