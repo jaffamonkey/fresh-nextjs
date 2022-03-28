@@ -37,8 +37,6 @@ seo:
 layout: post
 ---
 
-**Helping teams adopt a shift-left mindset - Test strategies - Opensource test architecture - Improving quality in CI/CD pipelines - Pragmatic performance test automation Coaching**
-
 ### Transparency
 
 With experience, comes the confidence to be transparent - but many choose not to be, out of irrational fear. It's important to be truthful about project progress - it's not necessary to be datailed on every single issue, but creating atmosphere of trust pays dividends.
