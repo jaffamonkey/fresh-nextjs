@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Some relevant self-analysis :)
+subtitle: I have worked with 57 clients on over 100+ projects
 img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
