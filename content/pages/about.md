@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: "I've never heard of you" ~ A world-famous Agile coach
+subtitle: 57 clients in mobile, creative, banking, finance, publishing and gaming indistries
 img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache
 seo:
@@ -31,3 +31,5 @@ seo:
       relativeUrl: true
 layout: page
 ---
+
+> "I've never heard of you" ~ A world-famous Agile coach
