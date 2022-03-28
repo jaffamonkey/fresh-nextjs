@@ -1,6 +1,6 @@
 ---
 title: Web/Mobile Accessibility
-subtitle: Make Accessibility psrt of your way of working
+subtitle: Make Accessibility part of your way of working
 excerpt: >-
   Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production.
 date: '2022-03-26'
