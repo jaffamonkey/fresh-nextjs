@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
-> "I've never heard of you" ~ A world-famous Agile coach
+**"I've never heard of you" ~ A world-famous Agile coach**
 
 ## Previous client companies
 
