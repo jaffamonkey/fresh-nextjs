@@ -38,7 +38,6 @@ layout: page
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</caption>
     <tbody>
       <tr>
        <td>CGI</td>
