@@ -2,7 +2,7 @@
 title: Quality Engineering
 subtitle: Quality at the centre of the project pipeline
 excerpt: >-
-  Shifting left with mean putting quality first at all stage in the development cycle, starting at requirements and design stages.
+  Shifting left means putting quality first at all stage in the development cycle, starting at requirements and design stages.
 date: '2022-03-27'
 thumb_img_path: images/3.png
 thumb_img_alt: A motorcycle in a forest
