@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I've never heard of you ~ A world-famous Agile coach
+subtitle: Previous client companies
 <!-- img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache -->
 seo:
@@ -32,7 +32,8 @@ seo:
 layout: page
 ---
 
-## Previous client companies
+
+>I've never heard of you. <cite>A world-famous Agile coach</cite>
 
 <div class="responsive-table">
   <table>
