@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 subtitle: Previous client companies
 <!-- img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache -->
