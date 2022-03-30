@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 57 clients in mobile, creative, banking, finance, publishing and gaming
+subtitle: I've never heard of you ~ A world-famous Agile coach
 <!-- img_path: images/clients.png
 img_alt: Portrait of a man with beard and mustache -->
 seo:
@@ -32,8 +32,6 @@ seo:
 layout: page
 ---
 
-**"I've never heard of you" ~ A world-famous Agile coach**
-
 ## Previous client companies
 
 <div class="responsive-table">
@@ -42,15 +40,15 @@ layout: page
       <tr>
         <td>CGI</td>
         <td>DocComs</td>
-        <td>Engine Transformation</td>
+        <td>Engine</td>
       </tr>
       <tr>
-        <td>Tele2</td>
-        <td>i2N</td>
+        <td>Tele2 (TMobile)</td>
+        <td>i2N Consulting</td>
         <td>Wowcher </td>
       </tr>
       <tr>
-        <td>TNT</td>
+        <td>TNT Express</td>
         <td>KPMG</td>
         <td>Digital Jigsaw</td>
       </tr>
@@ -87,7 +85,7 @@ layout: page
       <tr>
         <td>Telefónica UK</td>
         <td>GVA Property Consultancy</td>
-        <td>Multex.com, Inc. </td>
+        <td>Multex Inc. </td>
       </tr>
             <tr>
         <td>Sony (SCEE)</td>
