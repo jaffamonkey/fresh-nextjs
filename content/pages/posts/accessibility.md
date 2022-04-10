@@ -55,9 +55,7 @@ Auditing reporting available for web and mobile apps (WCAG 2.1).
 - We’ll test with users that have disabilities to give you a rounded view on your Web App’s Accessibility status 
 - An accessibility statement (inline with your current accessibility status) that can be published to a website advising on status of WCAG 2.1 AA compliance.
 
-> Add accessibility tests in your CI pipeline
-
-### Tools
+### Add accessibility tests in your CI pipeline
 
 A first important step is to realise Acessibility is a continual improvements exercise.
 
@@ -65,3 +63,4 @@ Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint
 
 Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
+>£85 per user testing hour [contact us](https://calendly.com/jaffamonkeyltd/intro-call)
