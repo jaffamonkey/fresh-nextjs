@@ -33,7 +33,7 @@ layout: page
 ---
 
 
->I've never heard of you. <cite>A world-famous Agile coach</cite>
+>"I've never heard of you."<cite>A world-famous Agile coach</cite>
 
 <div class="responsive-table">
   <table>
