@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: "Quality Engineering"
     content: >-
-      Quality `Assurance` + `Test` Engineering
+      E2E Quality from requirements to production
   - section_id: about
     type: section_content
-    title: E2E Quality from requirements to production
+    title: What I do
     content: >-
       Coaching teams in shift-left mindset • Test strategies • Opensource test architecture • Improving quality in CI/CD pipelines • Pragmatic performance test automation
   - section_id: current-services
