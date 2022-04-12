@@ -6,7 +6,7 @@
     "header": {
         "title": "jaffamonkey",
         "tagline": "Quality Engineering",
-        "profile_img": "https://raw.githubusercontent.com/jaffamonkey/fresh-nextjs/blob/master/public/images/avatar.jpg",
+        "profile_img": "images/avatar.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
